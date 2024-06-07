@@ -39,6 +39,7 @@ dependencies:
   firebase_auth: ^5.0.0
   country_code_picker: ^3.0.0
   country_picker: ^2.0.26
+  pinput: ^4.0.0
 
 dev_dependencies:
   flutter_test:
